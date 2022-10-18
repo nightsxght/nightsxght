@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nightsxght
+- 👀 I’m interested in yes
+- 🌱 I’m currently learning luau, css, c++, html, etc...
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me is you dont :)
